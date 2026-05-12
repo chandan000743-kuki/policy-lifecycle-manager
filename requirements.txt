@@ -1,0 +1,6 @@
+flask
+flask-limiter
+requests
+python-dotenv
+chromadb
+sentence-transformers
